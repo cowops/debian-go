@@ -1,0 +1,5 @@
+go_version: "1.4.2"
+go_os: "linux"
+go_arch: "amd64"
+go_root_path: "/usr/local"
+go_path: "/usr/local/go/bin/go"
